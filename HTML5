@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html leng="es">
+   <head>
+        <meta charset="utf-8"/>
+    <title>Primer pagina WEB </title>
+        <meta name "description" content="Esta es mi primera pagina web" />
+        <meta= "Aurhor" content="Fact"/>
+        <meta name="keywords" content="Mi primer titulo, mi primer pagina, pagina web"/>
+    </head>
+   <body>
+    <header>
+        <h1>My Blog</h1>
+    </header>
+
+        <nav>
+            <ul>
+                <li>Principal</li> 
+                <li>Ayuda</li>
+                <li>contacto</li>
+            </ul>
+
+        </nav>
+
+        <section>
+            <article>
+                <hgroup>
+                    <h1>Titulo del primer articulo</h1>
+                    <h2>Subtitulo del primer articulo</h2>
+                </hgroup>
+                <time>publicado "12/05/2022"</time>
+                <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quod modi fugit quia accusamus consequuntur laudantium soluta reiciendis eligendi, perferendis maiores natus ratione dolorum fugiat assumenda in sequi obcaecati! Doloribus, ab. ipsum dolor, sit amet consectetur adipisicing elit. Eaque blanditiis aspernatur rem iusto expedita reiciendis nobis, excepturi veniam quidem! Sed libero veritatis doloribus cumque, maiores autem eveniet quidem pariatur atque.</p>
+                <footer>
+                    <p>Comentario (0)</p>
+                </footer>
+                <a href="https://misiontic.utb.edu.co/">Visita nuestro sitio Web></a>
+            <article>
+                <hgroup>
+                    <h1>Titulo del segundo articulo</h1>
+                    <h2>Subtitulo del segundo articulo</h2>
+                </hgroup>
+                <time>publicado "12/05/2022"</time>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Deserunt dolore ut voluptates beatae ea aliquid totam error doloribus, cum possimus obcaecati itaque delectus voluptate. Quam numquam saepe eveniet explicabo adipisci! ipsum dolor sit amet consectetur adipisicing elit. Quis hic earum voluptas possimus consequatur. Blanditiis est quos ab a praesentium, commodi eligendi, odio, ullam veniam voluptate itaque labore magnam temporibus.</p>
+                <img src="imagens/jacala1.jpg" />
+                <footer>
+                    <p>Comentario (10)</p>
+                </footer>
+            </article>
+                <a href="https://google.com/">Visita google</a>
+        </section>
+
+        <aside>
+            Archivo
+
+            Acerca De
+        </aside>
+
+        <footer>
+            JAIME A CARVAJAL L Derechos reservados 2022
+        </footer>
+  
+    </body>
+</html>
